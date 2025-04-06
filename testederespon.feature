@@ -45,9 +45,7 @@ Feature: Legibilidade e Acessibilidade em Telas de Tamanhos Variados
     Then os botões devem ser grandes o suficiente para toques
     And o menu não deve sobrepor conteúdo ao ser aberto
 
-
 --------------------------------------------------------
-
 
 Feature: Adaptação do Layout ao Redimensionar a Janela do Navegador
 
